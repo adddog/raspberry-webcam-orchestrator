@@ -1,0 +1,24 @@
+# Compiled assets
+
+build
+minified
+reactUI/public/js
+reactUI/public/css
+
+# Links
+/ExternalObjects/*.bundle
+/ExternalObjects/*.dll
+
+# /Win
+/Win/DeletePanel.nsh
+
+# Dependencies
+node_modules
+
+# Misc
+.DS_Store
+.env
+npm-debug.log
+package-lock.json
+yarn.lock
+yarn-error.log
